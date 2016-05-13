@@ -1,0 +1,196 @@
+,x,LocationID_new,Prediction
+0,2,1,Uber Dominates
+1,2,2,Uber Dominates
+2,2,3,Uber Dominates
+3,2,4,Uber Dominates
+4,1,5,Taxi Dominates
+5,3,6,Expected Uber Dominates
+6,0,7,Low Trips
+7,3,8,Expected Uber Dominates
+8,0,9,Low Trips
+9,3,10,Expected Uber Dominates
+10,2,11,Uber Dominates
+11,0,12,Low Trips
+12,3,13,Expected Uber Dominates
+13,0,14,Low Trips
+14,3,15,Expected Uber Dominates
+15,3,16,Expected Uber Dominates
+16,1,17,Taxi Dominates
+17,2,18,Uber Dominates
+18,2,19,Uber Dominates
+19,3,20,Expected Uber Dominates
+20,2,21,Uber Dominates
+21,2,22,Uber Dominates
+22,3,23,Expected Uber Dominates
+23,2,24,Uber Dominates
+24,0,25,Low Trips
+25,3,26,Expected Uber Dominates
+26,2,27,Uber Dominates
+27,0,28,Low Trips
+28,0,29,Low Trips
+29,2,30,Uber Dominates
+30,0,31,Low Trips
+31,3,32,Expected Uber Dominates
+32,3,33,Expected Uber Dominates
+33,3,34,Expected Uber Dominates
+34,3,35,Expected Uber Dominates
+35,2,36,Uber Dominates
+36,3,37,Expected Uber Dominates
+37,2,38,Uber Dominates
+38,2,39,Uber Dominates
+39,3,40,Expected Uber Dominates
+40,2,41,Uber Dominates
+41,3,42,Expected Uber Dominates
+42,0,43,Low Trips
+43,3,44,Expected Uber Dominates
+44,3,45,Expected Uber Dominates
+45,2,46,Uber Dominates
+46,3,47,Expected Uber Dominates
+47,3,48,Expected Uber Dominates
+48,1,49,Taxi Dominates
+49,3,50,Expected Uber Dominates
+50,0,51,Low Trips
+51,3,52,Expected Uber Dominates
+52,3,53,Expected Uber Dominates
+53,0,54,Low Trips
+54,2,55,Uber Dominates
+55,2,56,Uber Dominates
+56,2,57,Uber Dominates
+57,3,58,Expected Uber Dominates
+58,3,59,Expected Uber Dominates
+59,3,60,Expected Uber Dominates
+60,3,61,Expected Uber Dominates
+61,3,62,Expected Uber Dominates
+62,1,63,Taxi Dominates
+63,2,64,Uber Dominates
+64,3,65,Expected Uber Dominates
+65,2,66,Uber Dominates
+66,3,67,Expected Uber Dominates
+67,2,68,Uber Dominates
+68,3,69,Expected Uber Dominates
+69,3,70,Expected Uber Dominates
+70,3,71,Expected Uber Dominates
+71,3,72,Expected Uber Dominates
+72,0,73,Low Trips
+73,2,74,Uber Dominates
+74,3,75,Expected Uber Dominates
+75,3,76,Expected Uber Dominates
+76,3,77,Expected Uber Dominates
+77,0,78,Low Trips
+78,3,79,Expected Uber Dominates
+79,0,80,Low Trips
+80,3,81,Expected Uber Dominates
+81,1,82,Taxi Dominates
+82,3,83,Expected Uber Dominates
+83,3,84,Expected Uber Dominates
+84,3,85,Expected Uber Dominates
+85,2,86,Uber Dominates
+86,2,87,Uber Dominates
+87,3,88,Expected Uber Dominates
+88,0,89,Low Trips
+89,0,90,Low Trips
+90,3,91,Expected Uber Dominates
+91,3,92,Expected Uber Dominates
+92,2,93,Uber Dominates
+93,3,94,Expected Uber Dominates
+94,3,95,Expected Uber Dominates
+95,0,96,Low Trips
+96,0,97,Low Trips
+97,2,98,Uber Dominates
+98,0,99,Low Trips
+99,3,100,Expected Uber Dominates
+100,3,101,Expected Uber Dominates
+101,3,102,Expected Uber Dominates
+102,3,103,Expected Uber Dominates
+103,0,104,Low Trips
+104,0,105,Low Trips
+105,2,106,Uber Dominates
+106,0,107,Low Trips
+107,3,108,Expected Uber Dominates
+108,3,109,Expected Uber Dominates
+109,0,110,Low Trips
+110,0,111,Low Trips
+111,1,112,Taxi Dominates
+112,0,113,Low Trips
+113,2,114,Uber Dominates
+114,3,115,Expected Uber Dominates
+115,2,116,Uber Dominates
+116,2,117,Uber Dominates
+117,2,118,Uber Dominates
+118,2,119,Uber Dominates
+119,2,120,Uber Dominates
+120,0,121,Low Trips
+121,3,122,Expected Uber Dominates
+122,0,123,Low Trips
+123,3,124,Expected Uber Dominates
+124,0,125,Low Trips
+125,3,126,Expected Uber Dominates
+126,2,127,Uber Dominates
+127,0,128,Low Trips
+128,0,129,Low Trips
+129,0,130,Low Trips
+130,0,131,Low Trips
+131,0,132,Low Trips
+132,2,133,Uber Dominates
+133,3,134,Expected Uber Dominates
+134,0,135,Low Trips
+135,0,136,Low Trips
+136,2,137,Uber Dominates
+137,2,138,Uber Dominates
+138,0,139,Low Trips
+139,0,140,Low Trips
+140,0,141,Low Trips
+141,0,142,Low Trips
+142,3,143,Expected Uber Dominates
+143,3,144,Expected Uber Dominates
+144,0,145,Low Trips
+145,3,146,Expected Uber Dominates
+146,3,147,Expected Uber Dominates
+147,2,148,Uber Dominates
+148,3,149,Expected Uber Dominates
+149,0,150,Low Trips
+150,0,151,Low Trips
+151,1,152,Taxi Dominates
+152,2,153,Uber Dominates
+153,3,154,Expected Uber Dominates
+154,2,155,Uber Dominates
+155,0,156,Low Trips
+156,3,157,Expected Uber Dominates
+157,3,158,Expected Uber Dominates
+158,3,159,Expected Uber Dominates
+159,0,160,Low Trips
+160,2,161,Uber Dominates
+161,0,162,Low Trips
+162,3,163,Expected Uber Dominates
+163,3,164,Expected Uber Dominates
+164,3,165,Expected Uber Dominates
+165,3,166,Expected Uber Dominates
+166,1,167,Taxi Dominates
+167,3,168,Expected Uber Dominates
+168,0,169,Low Trips
+169,2,170,Uber Dominates
+170,0,171,Low Trips
+171,2,172,Uber Dominates
+172,2,173,Uber Dominates
+173,0,174,Low Trips
+174,0,175,Low Trips
+175,3,176,Expected Uber Dominates
+176,0,177,Low Trips
+177,0,178,Low Trips
+178,0,179,Low Trips
+179,1,180,Taxi Dominates
+180,2,181,Uber Dominates
+181,1,182,Taxi Dominates
+182,2,183,Uber Dominates
+183,0,184,Low Trips
+184,0,185,Low Trips
+185,0,186,Low Trips
+186,0,187,Low Trips
+187,2,188,Uber Dominates
+188,3,189,Expected Uber Dominates
+189,0,190,Low Trips
+190,3,191,Expected Uber Dominates
+191,3,192,Expected Uber Dominates
+192,1,193,Taxi Dominates
+193,1,194,Taxi Dominates
+194,0,195,Low Trips
